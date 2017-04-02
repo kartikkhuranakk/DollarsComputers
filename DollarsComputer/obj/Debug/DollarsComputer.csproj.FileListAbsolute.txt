@@ -1,0 +1,13 @@
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\bin\Debug\DollarsComputer.exe.config
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\bin\Debug\DollarsComputer.exe
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\bin\Debug\DollarsComputer.pdb
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.csprojResolveAssemblyReference.cache
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.Properties.Resources.resources
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.SplashForm.resources
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.csproj.GenerateResource.Cache
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.exe
+c:\users\kk\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.pdb
+C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.OrderForm.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.ProductInfoForm.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.SelectForm.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.StartForm.resources
