@@ -74,16 +74,10 @@ namespace DollarsComputer
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AboutBox aboutBox1 = new AboutBox();
+            AboutForm aboutBox1 = new AboutForm();
             aboutBox1.ShowDialog();
         }
 
-        private class AboutBox
-        {
-            internal void ShowDialog()
-            {
-                throw new NotImplementedException();
-            }
-        }
+       
     }
 }

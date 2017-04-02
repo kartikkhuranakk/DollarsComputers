@@ -11,3 +11,4 @@ C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsCompute
 C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.ProductInfoForm.resources
 C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.SelectForm.resources
 C:\Users\KK\Documents\Visual Studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.StartForm.resources
+C:\Users\KK\documents\visual studio 2015\Projects\DollarsComputer\DollarsComputer\obj\Debug\DollarsComputer.AboutForm.resources
