@@ -106,6 +106,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "AboutForm";
             this.Text = "AboutForm";
+            this.Load += new System.EventHandler(this.AboutForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

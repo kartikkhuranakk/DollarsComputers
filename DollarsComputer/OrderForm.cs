@@ -32,7 +32,7 @@ namespace DollarsComputer
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Thank you!" + "\n" + "\n" + "Your Items will be shipped within a week");
+            MessageBox.Show("Thank you!" + "\n" + "\n" + "Your Items will be shipped within 7-10 days");
             Application.Exit();
         }
 
@@ -78,6 +78,9 @@ namespace DollarsComputer
             aboutBox1.ShowDialog();
         }
 
-       
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
